@@ -1,2 +1,2 @@
 # framer.module.fill
-A fill module for Framer.
+framer.module.fill is a fill module for Framer.
