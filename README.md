@@ -39,7 +39,7 @@ layerA = new Layer()
 layerB = new Layer()
 
 # Fill
-fill.pattern(layerA, "http://www.fillmurray.com/100/100.jpg")
+fill.pattern(layerA, "path/to/image.jpg")
 fill.video(layerB, "path/to/video.mp4")
 ```
 
