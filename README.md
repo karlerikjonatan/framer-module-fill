@@ -15,6 +15,7 @@ framer.module.fill consists of the methods ```pattern```, ```video``` and accept
 
 #### pattern
 ``` coffeescript
+# Repeats on x-axis and y-axis
 fill.pattern(layer, src)
 ```
 The ```layer``` and ```src``` parameters defines the layer to fill and the source to fill it with.
