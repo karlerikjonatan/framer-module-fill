@@ -19,7 +19,7 @@ fill.pattern(layer, src)
 ```
 The ```layer``` and ```src``` parameters defines the layer to fill and the source to fill it with.
 
-Fill source could either be local or external.
+Fill source could either be local or external of type [image/*](http://en.wikipedia.org/wiki/Internet_media_type#Type_image).
 
 #### video
 ``` coffeescript
@@ -27,7 +27,7 @@ fill.video(layer, src)
 ```
 The ```layer``` and ```src``` parameters defines the layer to fill and the source to fill it with.
 
-Fill source could either be local or external.
+Fill source could either be local or external of type [video/*](http://en.wikipedia.org/wiki/Internet_media_type#Type_video).
 
 ### Example
 ``` coffeescript
