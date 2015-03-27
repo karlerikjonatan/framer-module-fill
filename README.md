@@ -1,6 +1,8 @@
 # framer.module.fill
 framer.module.fill is a fill module for Framer.
 
+![framer.module.fill](https://raw.githubusercontent.com/karlerikjonatan/framer.module.fill/master/screenshot.png)
+
 ## Installation
 Add ```fill.coffee``` to the /modules folder of your project.
 
