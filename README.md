@@ -47,8 +47,6 @@ fill.video(layerB, "path/to/video.mp4")
 ```
 
 ## License
-The MIT License (MIT)
-
 Copyright (c) 2015 Jonatan Pettersson
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
